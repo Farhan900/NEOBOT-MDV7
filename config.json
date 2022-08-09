@@ -1,7 +1,7 @@
 {
     "ownerNumber": "6282146218274@s.whatsapp.net", 
-    "ownerName": "Rielganzz", 
-    "botName": "Khurushi-Md🌱",
+    "ownerName": "Farhanzzganzz", 
+    "botName": "Farhanbotz-Md🌱",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© RielGanzz",
-        "author": "Khurushi Official"
+        "packname": "© FarhanGanzz",
+        "author": "farhan Official"
     }
 }
